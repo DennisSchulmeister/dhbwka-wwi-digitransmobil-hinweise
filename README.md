@@ -24,5 +24,5 @@ Diese Folien sind lizenziert unter
 © 2018 Judith Hüther <br/>
 © 2018 Dietmar Bender <br/>
 
-E-Mail: [digitransmobil@dhbw-karlsruhe.de](digitransmobil@dhbw-karlsruhe.de) <br/>
+E-Mail: [digitransmobil@dhbw-karlsruhe.de](mailto:digitransmobil@dhbw-karlsruhe.de) <br/>
 Webseite: https://www.karlsruhe.dhbw.de/digitransmobil.html

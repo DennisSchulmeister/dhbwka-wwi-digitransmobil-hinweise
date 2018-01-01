@@ -1,5 +1,5 @@
 Hinweise zur Erstellung der Modulbausteine im Projekt DigiTransMoBiL des Studiengangs Wirtschaftsinformatik an der DHBW Karlsruhe
-================================================================================================================================
+=================================================================================================================================
 
 Kurzbeschreibung
 ----------------

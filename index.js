@@ -35,10 +35,14 @@
  */
 "use strict";
 
+import emailLinkJs from "email-link.js";
+
 import SlideshowPlayer from "lecture-slides.js";
 import "./style/style.less";
 
 window.addEventListener("load", () => {
+    emailLinkJs.enableEmailLinks();
+
     let player = new SlideshowPlayer({
         labelPrev: "Zurück",
         labelNext: "Weiter",

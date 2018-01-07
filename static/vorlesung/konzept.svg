@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg4766"
+   xml:space="preserve"
+   width="1620.5864"
+   height="1050.0695"
+   viewBox="0 0 1620.5865 1050.0694"
+   sodipodi:docname="konzept.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
+     id="metadata4772"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs4770"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4782"><path
+         d="M 0,0 H 595.2 V 841.8 H 0 Z"
+         id="path4780"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5217"><path
+         d="M 0,0 H 595.2 V 841.8 H 0 Z"
+         id="path5215"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" /></clipPath></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2048"
+     inkscape:window-height="1088"
+     id="namedview4768"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.80470867"
+     inkscape:cx="810.29321"
+     inkscape:cy="525.03473"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4774"><inkscape:grid
+       type="xygrid"
+       id="grid11062"
+       originx="-4.7529065e-09"
+       originy="-76.000004" /></sodipodi:namedview><g
+     id="g4774"
+     inkscape:groupmode="layer"
+     inkscape:label="2 - HTML und CSS"
+     transform="matrix(1.3333333,0,0,-1.3333333,0.88923835,1125.3134)"><rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.13385844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11045-6"
+       width="595.87891"
+       height="782.36694"
+       x="2.9000244"
+       y="-838.79993"
+       transform="scale(1,-1)" /><rect
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.13385844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11045-3-7"
+       width="595.87891"
+       height="783.98511"
+       x="618.89404"
+       y="-840.41809"
+       transform="scale(1,-1)" /><rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.13385844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11045-3"
+       width="595.87891"
+       height="783.98517"
+       x="615.89404"
+       y="-843.41815"
+       transform="scale(1,-1)" /><rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.13385844;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11045"
+       width="595.87891"
+       height="782.36694"
+       x="-0.099999554"
+       y="-841.79993"
+       transform="scale(1,-1)" /><g
+       id="g4776"><g
+         id="g4778"
+         clip-path="url(#clipPath4782)"><path
+           d="M 297.6,781 H -0.1 v 60.8 H 595.2 V 781 Z"
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path4784"
+           inkscape:connector-curvature="0" /><g
+           id="g4786"><text
+             transform="matrix(1,0,0,-1,57.3,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4790"><tspan
+               x="0 7.8979998 14.597 23.782 30.481001 33.571999 41.557999 48.862"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4788">HTML/CSS</tspan></text>
+</g><g
+           id="g4792"><text
+             transform="matrix(1,0,0,-1,56.8,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4796"><tspan
+               x="0 7.8979998 14.597 23.782 30.481001 33.571999 41.557999 48.862"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4794">HTML/CSS</tspan></text>
+</g><g
+           id="g4798"><text
+             transform="matrix(1,0,0,-1,488.4,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4802"><tspan
+               x="0 7.3039999 13.409 16.5 20.184999 26.290001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4800">Seite </tspan></text>
+</g><g
+           id="g4804"><text
+             transform="matrix(1,0,0,-1,487.9,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4808"><tspan
+               x="0 7.3039999 13.409 16.5 20.184999 26.290001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4806">Seite </tspan></text>
+</g><g
+           id="g4810"><text
+             transform="matrix(1,0,0,-1,517.8,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4814"><tspan
+               x="0"
+               y="0"
+               id="tspan4812">1</tspan></text>
+</g><g
+           id="g4816"><text
+             transform="matrix(1,0,0,-1,517.3,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4820"><tspan
+               x="0"
+               y="0"
+               id="tspan4818">1</tspan></text>
+</g><g
+           id="g4822"><text
+             transform="matrix(1,0,0,-1,526.903,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4826"><tspan
+               x="0 3.0910001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4824">/ </tspan></text>
+</g><g
+           id="g4828"><text
+             transform="matrix(1,0,0,-1,526.403,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4832"><tspan
+               x="0 3.0910001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4830">/ </tspan></text>
+</g><g
+           id="g4834"><text
+             transform="matrix(1,0,0,-1,533.1,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4838"><tspan
+               x="0"
+               y="0"
+               id="tspan4836">2</tspan></text>
+</g><g
+           id="g4840"><text
+             transform="matrix(1,0,0,-1,532.6,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4844"><tspan
+               x="0"
+               y="0"
+               id="tspan4842">2</tspan></text>
+</g><g
+           id="g4846"><text
+             transform="matrix(1,0,0,-1,56.8,742.8)"
+             style="font-variant:normal;font-weight:bold;font-size:19.60000038px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4850"><tspan
+               x="0 14.1708 25.068399 37.043999 42.453602 48.9608 59.858398 65.267998 71.8536 77.263199 91.433998 103.4096 119.7168 131.6924 137.10201 151.1944 164.26759"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4848">Kapitel: HTML/CSS</tspan></text>
+</g><g
+           id="g4852"><text
+             transform="matrix(1,0,0,-1,56.8,709.5)"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4856"><tspan
+               x="0 10.094 18.591999 27.174 35.672001 44.254002 52.037998 59.821999 64.428001 73.010002 81.508003 90.089996 97.874001 101.766"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4854">Übungsstunde 1</tspan></text>
+</g><g
+           id="g4858"><text
+             transform="matrix(1,0,0,-1,56.8,690.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4862"><tspan
+               x="0 7.3039999 11.594 18.292999 21.978001 25.663 32.362 39.061001 45.759998"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4860">Eröffnung</tspan></text>
+</g><g
+           id="g4864"><text
+             transform="matrix(1,0,0,-1,430.8,690.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4868"><tspan
+               x="0 7.8979998 10.989 17.094 23.198999 29.898001 36.002998 42.108002 45.199001 51.897999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4866">Diskussion</tspan></text>
+</g><g
+           id="g4870"><text
+             transform="matrix(1,0,0,-1,56.8,677.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4874"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 45.264999 47.662998 53.768002 56.859001 64.757004 70.862 74.546997 77.638 83.742996 89.848 95.348 98.439003 104.434 108.119 113.619 116.71 122.815 125.906 133.21001 139.315 141.713 147.81799 153.31799 156.409 161.909 165 171.105 177.21001 179.608 185.713 194.89799"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4872">Frage: Wie war das erste Selbststudium?</tspan></text>
+</g><g
+           id="g4876"><text
+             transform="matrix(1,0,0,-1,56.8,664.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4880"><tspan
+               x="0 7.3039999 13.409 18.997 26.895 33 36.685001 39.776001 45.881001 51.986 58.091 61.181999 67.287003 73.391998 77.077003 80.080002 86.778999 92.884003 98.988998 105.182 111.287 117.392 122.892 128.392"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4878">Auswertung der Feedbacks</tspan></text>
+</g><g
+           id="g4882"><text
+             transform="matrix(1,0,0,-1,56.8,652.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4886"><tspan
+               x="0 7.3920002 9.79 12.188 18.292999 24.398001 33.583 39.776001 42.174 48.278999 54.383999 57.474998 64.174004 67.859001 73.963997 80.069 86.174004 92.278999 95.370003 101.475 107.58 113.08 116.171 122.276 128.381 134.48599 137.577 144.276 150.381 156.48599 162.591 168.784 174.88901 180.38901 185.88901"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4884">Allgemeine Fragen aus den Feedbacks</tspan></text>
+</g><g
+           id="g4888"><text
+             transform="matrix(1,0,0,-1,56.8,639.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4892"><tspan
+               x="0 5.5 11.605 17.798 20.195999 26.301001 31.801001 37.905998 40.997002 46.497002 52.602001 61.699001 64.790001 67.880997 70.278999 76.384003 82.488998 86.174004 92.278999 94.764999 100.87 106.37 112.475 118.58 121.671 124.762 130.26199 136.257"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4890">caniuse.com, learnlayout.com</tspan></text>
+</g><g
+           id="g4894"><text
+             transform="matrix(1,0,0,-1,56.8,614.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4898"><tspan
+               x="0 10.296 13.387 19.492001 26.191 32.296001 36.585999 43.285 49.984001 53.075001 59.773998 66.473 73.171997 76.263 84.161003 90.860001 100.045 106.744 109.835 117.733 125.125"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4896">Wiederholung HTML/CSS</tspan></text>
+</g><g
+           id="g4900"><text
+             transform="matrix(1,0,0,-1,430.8,614.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4904"><tspan
+               x="0 6.6989999 14.003"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4902">TPS</tspan></text>
+</g><g
+           id="g4906"><text
+             transform="matrix(1,0,0,-1,56.8,601.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4910"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 45.077999 51.073002 54.757999 57.848999 63.348999 69.454002 75.558998 81.751999 84.754997 90.860001 94.544998 100.045 102.443 108.548 112.233 118.338 124.443 127.534 130.625 138.52299 144.62801 150.12801 153.21899 161.117 167.81599 177.00101 182.69901 185.78999 188.188 193.688 196.77901"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4908">Frage: Wer kann erklären, was HTML ist?</tspan></text>
+</g><g
+           id="g4912"><text
+             transform="matrix(1,0,0,-1,56.8,589)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4916"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 45.077999 51.182999 53.581001 59.081001 65.185997 71.378998 74.382004 81.685997 84.171997 90.277 95.777 101.882 104.973 110.473 116.578 122.683 128.78799 131.186 137.291 140.382 146.575 149.578 152.66901 155.067 162.371 166.056 169.147 175.252 181.35699 184.448 189.948 196.05299 202.158 205.24899 215.446 221.55099 227.65601 233.15601 235.554 238.645 244.75 250.25 253.341 258.841 264.94601 271.05099 277.15601 283.26099 289.366 292.457 299.76099 302.159 308.35199"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4914">Frage: Welche Einsatzgebiete / Arten von Websites kennen Sie?</tspan></text>
+</g><g
+           id="g4918"><text
+             transform="matrix(1,0,0,-1,56.8,576.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4922"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 45.077999 51.182999 53.581001 59.081001 65.185997 71.378998 74.382004 84.579002 90.683998 94.369003 99.869003 105.369 111.474 117.579 123.684 129.789 132.88 138.985 142.67 148.77499 154.88 160.38 166.485 169.576 172.66701 181.76401 187.869 194.062 197.065 202.565 208.67 217.855 220.946 228.25 234.355 237.446 245.34399 247.742 253.242 258.742 264.935 267.33301 273.43799"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4920">Frage: Welche Werkzeuge braucht man zum Entwickeln?</tspan></text>
+</g><g
+           id="g4924"><text
+             transform="matrix(1,0,0,-1,56.8,563.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4928"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.286999 41.591 47.695999 50.786999 56.891998 62.997002 69.101997 72.193001 78.297997 84.403 90.508003 93.598999 100.903 106.403 112.508 115.599 121.704 127.204 130.295 136.39999 138.798 144.903 151.008 154.69299 157.784 165.68201 172.381 181.56599 187.67101 191.356 198.66 204.765 207.16299 210.254 216.35899 222.552 225.55499 229.24001 234.74001 240.845 246.95 252.45 255.541 261.646 267.75101 273.944 276.34201 283.646 286.737 289.73999 293.42499 295.823 301.92801 308.03299 311.12399 317.229"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4926">Frage: Aufbau und Syntax einer HTML-Seite? (Tags und Attribute)</tspan></text>
+</g><g
+           id="g4930"><text
+             transform="matrix(1,0,0,-1,56.8,551.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4934"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 44.880001 50.985001 56.485001 59.487999 61.886002 67.386002 70.476997 73.568001 79.672997 85.778 89.462997 92.466003 100.364 108.955 116.941 123.64 130.944 138.336 145.64"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4932">Frage: Was ist der DOCTYPE?</tspan></text>
+</g><g
+           id="g4936"><text
+             transform="matrix(1,0,0,-1,56.8,538.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4940"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 42.185001 44.583 50.776001 53.778999 59.883999 65.988998 72.094002 75.778999 78.870003 86.767998 89.166 94.753998 100.859 103.95 106.348 112.453 118.558 121.649 129.547 136.246 145.431 151.536 155.22099 162.52499 164.923 171.028 180.213 186.31799 192.423 195.51401 201.707 204.71001 210.815 216.92 220.011 225.511 231.616 237.72099 240.207 246.312 252.41701"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4938">Frage: Ein paar wichtige HTML-Elemente aufzählen?</tspan></text>
+</g><g
+           id="g4942"><text
+             transform="matrix(1,0,0,-1,430.8,601.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4946"><tspan
+               x="0 7.8979998 10.296 15.796 21.296 27.400999 32.901001 38.488998 40.887001 46.992001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4944">Diskussion</tspan></text>
+</g><g
+           id="g4948"><text
+             transform="matrix(1,0,0,-1,56.8,513.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4952"><tspan
+               x="0 6.6989999 12.804 18.909 25.014 28.798 31.195999 37.300999 43.405998 45.804001 51.909 55 58.091 61.181999 63.580002 70.884003 76.988998 80.080002 86.184998 92.290001 98.394997 104.588 107.679 113.674 116.765 119.856 127.754 134.453 143.638 149.743 153.42799 161.326 167.431 173.536 179.729 182.73199 188.23199 194.33701 198.022 203.522 209.627 212.11301 214.511 220.011 223.10201 229.207 235.312 241.41701 243.815 250.008 256.11301"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4950">Theorieblatt, Aufgabe 1: HTML-Code vervollständigen</tspan></text>
+</g><g
+           id="g4954"><text
+             transform="matrix(1,0,0,-1,56.8,500.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4958"><tspan
+               x="0 11 14.091 21.395 25.08 30.481001 33.571999 36.662998 42.162998 48.268002 50.666 56.771 62.271 65.362 68.453003 71.543999 77.649002 83.753998 89.859001 95.963997 99.055 105.16 111.265 116.765 122.87 128.97501 135.168 138.17101 143.67101 149.776 158.961 162.052 169.95 176.05499 181.55499 187.66 193.765 199.87 203.55499 206.646 212.146 218.25101 221.84801 225.533 228.019 234.12399 236.522 242.627 246.312 252.41701"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4956">→ Erst selbst, dann Lösung vom Nachbar korrigieren</tspan></text>
+</g><g
+           id="g4960"><text
+             transform="matrix(1,0,0,-1,430.8,513.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4964"><tspan
+               x="0 7.3039999 13.409 16.5 22.605 28.709999 34.814999 41.007999 44.011002 47.102001 49.907001 56.605999 63.998001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4962">Aufgabe / TPS</tspan></text>
+</g><g
+           id="g4966"><text
+             transform="matrix(1,0,0,-1,56.8,475.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4970"><tspan
+               x="0 7.8979998 16.489 25.674 29.358999 37.257 43.362 50.061001 59.851002 62.942001 69.046997 75.746002 81.850998 84.942001 92.839996 99.539001 108.724"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4968">DOM-Baum aus HTML</tspan></text>
+</g><g
+           id="g4972"><text
+             transform="matrix(1,0,0,-1,430.8,475.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4976"><tspan
+               x="0 7.3039999 10.395 17.094 23.198999 27.489 30.492001 36.597 43.383999 46.387001 53.085999 56.176998 62.282001 65.373001 71.268997 77.374001 81.058998 87.054001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4974">Einer an die Tafel</tspan></text>
+</g><g
+           id="g4978"><text
+             transform="matrix(1,0,0,-1,56.8,462.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4982"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 44.880001 50.985001 56.485001 59.487999 61.886002 67.386002 70.476997 73.568001 79.672997 85.778 91.278 94.369003 102.267 108.372 113.872 119.977 129.162 135.267 141.37199 144.463 147.554 156.05701 162.162 164.64799 170.75301 176.25301 179.34399 182.347 191.532 197.63699 203.742 209.847 212.33299 215.336 221.44099 226.94099 234.245 237.336 240.427 246.532 252.63699 256.32199 259.41299 267.311 275.814 284.99899 288.68399 295.98801 302.09299 308.198 317.383"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4980">Frage: Was ist das Document Object Model bzw. der DOM-Baum?</tspan></text>
+</g><g
+           id="g4984"><text
+             transform="matrix(1,0,0,-1,56.8,449.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4988"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 44.880001 50.985001 57.09 63.195 66.286003 74.183998 76.582001 80.266998 86.372002 89.462997 95.568001 101.673 107.173 110.264 118.162 126.665 135.85001 138.94099 145.04601 148.731 154.231 160.336 166.44099 172.54601 175.63699 178.728 184.83299 190.938 197.043 200.134 208.032 214.13699 219.63699 225.742 228.83299 236.731 239.129 242.814 249.007 252.00999 258.11499 263.61499 266.70599 272.811 278.91599 285.021 291.12601 294.21701 299.71701 302.80801"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4986">Frage: Wann wird das DOM erzeugt und wozu wird es genutzt?</tspan></text>
+</g><g
+           id="g4990"><text
+             transform="matrix(1,0,0,-1,56.8,437.2)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text4994"><tspan
+               x="0 6.6989999 12.804 18.909 25.014 28.798 31.195999 37.300999 43.405998 45.804001 51.909 55 58.091 61.181999 63.580002 70.884003 76.988998 80.080002 86.184998 92.290001 98.394997 104.588 107.679 113.674 116.765 119.856 127.754 136.345 145.442 149.127 156.431 162.536 168.64101 177.925 180.92799 190.11301 196.218 198.616 204.72099 210.914 213.91701 217.60201 225.5 234.091 243.188 246.27901 252.384 258.48901 261.57999 264.67099 270.776 279.961 282.96399 290.26801 296.37299 302.478 311.66299 317.76801 321.453"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4992">Theorieblatt, Aufgabe 2: DOM-Baum malen (DOM.pdf am Beamer)</tspan></text>
+</g><g
+           id="g4996"><text
+             transform="matrix(1,0,0,-1,430.8,437.2)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5000"><tspan
+               x="0 5.5 11.605 14.696 20.801001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan4998">Tafel</tspan></text>
+</g><g
+           id="g5002"><text
+             transform="matrix(1,0,0,-1,56.8,411.9)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5006"><tspan
+               x="0 7.8979998 14.685 21.384001 25.674 32.373001 39.071999 45.771 52.470001 59.257 62.259998 68.364998 75.064003 81.850998 84.853996 92.157997 95.249001 101.354 111.144 117.249 123.948 127.633 133.73801 140.437 143.528 150.22701 156.92599 163.713 166.716 170.401 177.10001 183.799 189.90401 194.194 197.285 203.98399 210.683 213.686 216.77699 222.882 229.66901 232.672 238.77699 244.97 247.97301 254.672 257.763 263.86801 266.95901 273.064 279.16901"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5004">Anordnung von Elementen.odp (oder Folien 17 bis 20)</tspan></text>
+</g><g
+           id="g5008"><text
+             transform="matrix(1,0,0,-1,430.8,411.9)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5012"><tspan
+               x="0 6.6989999 13.398 16.400999 19.492001 25.597"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5010">Folien</tspan></text>
+</g><g
+           id="g5014"><text
+             transform="matrix(1,0,0,-1,56.8,399.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5018"><tspan
+               x="0 7.3039999 10.395 14.08 20.184999 25.684999 28.775999 34.771 38.456001 44.561001 50.666 56.859001 62.964001 69.069 75.174004 81.366997 84.370003 91.674004 94.160004 100.265 109.45 115.555 121.66 124.751 130.856 133.85899 136.345 142.45 145.541 153.439 160.138 169.323 175.42799"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5016">Strukturgebende Elemente in HTML5</tspan></text>
+</g><g
+           id="g5020"><text
+             transform="matrix(1,0,0,-1,56.8,386.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5024"><tspan
+               x="0 7.3039999 13.409 18.909 22.594 31.778999 37.883999 43.988998 50.181999 52.580002 54.978001 58.069 61.16 67.264999 69.663002 75.767998 81.267998 86.767998 89.859001 92.949997 95.348 101.453 103.851 106.337 112.442 118.547 121.638 124.641 127.732 133.83701 139.942 142.34 148.44501 152.229 157.729 163.834 166.23199"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5022">Box-Modell: block, inline, table-cell</tspan></text>
+</g><g
+           id="g5026"><text
+             transform="matrix(1,0,0,-1,56.8,374)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5030"><tspan
+               x="0 7.3039999 12.804 18.909 25.014 30.601999 36.707001 39.798 45.903 48.300999 54.405998 60.511002 66.704002 69.707001 75.207001 81.311996 87.504997 90.508003 97.900002 100.298 106.403 115.588 121.693 127.798 130.88901 136.994"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5028">Schachtelung von Elementen</tspan></text>
+</g><g
+           id="g5032"><text
+             transform="matrix(1,0,0,-1,56.8,361.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5036"><tspan
+               x="0 7.3039999 13.409 19.601999 25.707001 31.812 35.497002 41.602001 47.707001 53.812 59.917 66.022003 72.214996 74.612999 80.718002 86.822998 93.015999 96.018997 99.110001 105.215 108.9 111.903 115.588 118.679 121.077 127.182 133.287 136.37801"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5034">Sonderbehandlung für „float“</tspan></text>
+</g><g
+           id="g5038"><text
+             transform="matrix(1,0,0,-1,56.8,348.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5042"><tspan
+               x="0 7.3039999 10.395 15.895 18.292999 24.398001 29.898001 36.091 42.195999 48.300999 51.391998 56.891998 59.895 66 72.105003 75.195999 77.594002 83.787003 86.184998 92.290001 95.974998 102.08 108.273 110.671 117.975 124.08 130.185 133.87 139.97501 146.08 152.27299 158.37801 164.483 167.57401 173.679 179.784 185.88901 188.98 197.571 203.67599 209.077 212.168 218.27299 220.67101 223.76199 229.867 235.972 242.16499 245.168 251.27299 257.37799 261.06299 264.15399 271.45801 273.85599 279.961 289.146 295.25101 301.35599 304.44699"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5040">Stylesheets definieren Anordnung und Gestaltung der Elemente</tspan></text>
+</g><g
+           id="g5044"><text
+             transform="matrix(1,0,0,-1,56.8,336)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5048"><tspan
+               x="0 7.9860001 10.384 16.489 19.58 25.684999 28.083 33.583 39.776001 42.174 48.278999 53.778999 57.464001 64.767998 70.873001 78.771004 84.963997 87.362 92.862 98.967003 105.072"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5046">Die display-Anweisung</tspan></text>
+</g><g
+           id="g5050"><text
+             transform="matrix(1,0,0,-1,56.8,323.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5054"><tspan
+               x="0 9.1850004 15.29 18.975 25.08 27.478001 33.671001 36.674 42.174 47.674 50.764999 53.768002 59.873001 65.977997 72.083 78.276001 80.674004 86.778999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5052">margin vs. padding</tspan></text>
+</g><g
+           id="g5056"><text
+             transform="matrix(1,0,0,-1,56.8,298.1)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5060"><tspan
+               x="0 10.197 16.302 23.000999 29.788 32.791 39.490002 45.595001 52.293999 59.081001 65.779999 68.871002 75.57 81.675003 84.678001 88.362999 92.047997 95.051003 103.037 110.341 117.733 120.736 123.827 130.526 133.52901 141.515 148.214 157.399 163.89999 166.903 173.008 176.099 182.798 189.49699 192.588 199.287 205.98599 212.091"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5058">Wenn genug Zeit: CSS in HTML einbinden</tspan></text>
+</g><g
+           id="g5062"><text
+             transform="matrix(1,0,0,-1,430.8,298.1)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5066"><tspan
+               x="0 7.8979998 14.003 17.688 20.778999 26.884001 32.988998 35.584999 43.570999 50.27 56.969002 59.972 63.657001 70.356003 74.646004 77.737 84.435997"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5064">Active Auditorium</tspan></text>
+</g><g
+           id="g5068"><text
+             transform="matrix(1,0,0,-1,56.8,285.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5072"><tspan
+               x="0 7.9860001 15.29 22.594 25.684999 32.988998 35.387001 41.580002 47.685001 50.083 56.188 62.292999 68.486 74.591003 77.681999 83.787003 89.891998"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5070">CSS Einbinden.odt</tspan></text>
+</g><g
+           id="g5074"><text
+             transform="matrix(1,0,0,-1,56.8,260.1)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5078"><tspan
+               x="0 7.3039999 13.409 20.108 23.792999 29.898001 36.091 39.181999 45.286999 51.986 58.685001 61.776001 69.674004 76.977997 84.281998 87.373001 94.071999 100.771 107.558 110.561 114.246 120.945 127.644 133.74899 138.039 141.13 147.82899 154.528 157.53101 160.62199 166.815 169.81799 175.923 182.028"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5076">Syntax von CSS.odp (oder Folie 26)</tspan></text>
+</g><g
+           id="g5080"><text
+             transform="matrix(1,0,0,-1,430.8,260.1)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5084"><tspan
+               x="0 5.8959999 12.001 15.686 21.681"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5082">Tafel</tspan></text>
+</g><g
+           id="g5086"><text
+             transform="matrix(1,0,0,-1,56.8,247.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5090"><tspan
+               x="0 9.1850004 11.583 17.688 20.086 23.870001 31.768 38.466999 47.652 53.757 57.442001 64.746002 70.850998 73.249001 78.749001 84.942001 87.339996 93.445 95.843002 102.036 105.127 111.232 117.337 120.34 126.533 128.931 135.036 137.94 143.44 149.545 152.636 158.741 161.13901 164.23 169.73 175.23 181.33501 185.02 191.125 193.52299 199.62801 205.733"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5088">Mini-HTML-Beispiele an die Tafel schreiben</tspan></text>
+</g><g
+           id="g5092"><text
+             transform="matrix(1,0,0,-1,56.8,234.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5096"><tspan
+               x="0 6.105 8.5909996 14.696 17.787001 20.790001 23.881001 29.381001 31.778999 37.883999 43.383999 48.883999 51.974998 55.066002 61.171001 63.569 69.674004 78.859001 84.963997 91.069 94.071999 97.163002 100.254 105.754 108.845 113.443 116.534 119.625 125.125 128.12801 134.53 137.621 142.31799 145.321 148.412 153.912 157.00301 163.108 168.509 171.60001 173.998 179.498 185.603 188.793 191.79601"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5094">#id, .class, element, x y, x &gt; y, x:active, …</tspan></text>
+</g><g
+           id="g5098"><text
+             transform="matrix(1,0,0,-1,56.8,222.2)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5102"><tspan
+               x="0 6.105 9.1960001 18.381001 20.778999 23.870001 29.370001 34.771 37.862 40.952999 47.057999 53.162998 59.268002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5100">html vs. body</tspan></text>
+</g><g
+           id="g5104"><text
+             transform="matrix(1,0,0,-1,56.8,209.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5108"><tspan
+               x="0 7.9860001 15.29 22.594 26.278999 33.583 39.083 45.188 51.292999 57.486 63.591 69.091003 71.488998 77.594002 83.094002 88.594002 94.698997 100.892 103.983 107.58 110.671 116.776 122.881 128.381 134.48599 137.489 140.58 143.67101 146.76199 152.867 158.26801 161.35899 163.757 169.257 175.362 178.552 181.55499 184.646 190.146 192.54401 198.04401 200.442 203.533 209.638 215.743 218.834 221.925 224.92799 228.019 230.41701 234.10201 239.50301 242.59399 245.685 248.08299 254.188 259.68799 262.77899 266.46399 271.96399 278.069 280.46701 282.953 289.05801"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5106">CSS-Pseudoklassen (:hover, :active, :visited, :first/last-child)</tspan></text>
+</g><g
+           id="g5110"><text
+             transform="matrix(1,0,0,-1,56.8,184.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5114"><tspan
+               x="0 7.9860001 15.29 22.594 26.278999 34.176998 40.875999 49.466999 55.571999 58.662998 64.767998 71.467003 78.166 84.864998 90.970001 97.757004 100.848 106.953 113.058 122.848 132.638 138.633 141.724 148.423 151.51401 155.19901 161.304 167.409 170.5 179.597 182.688 189.38699 196.086 199.771 205.87601 212.575 215.666 219.351 225.951 230.241 233.332 240.03101 246.136 252.32899 255.332 262.63599 269.33499 272.42599 278.53101 281.62201 285.21899"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5112">CSS-Anweisungen sammeln (30 Minuten für das Spiel!)</tspan></text>
+</g><g
+           id="g5116"><text
+             transform="matrix(1,0,0,-1,430.8,184.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5120"><tspan
+               x="0 7.8979998 14.597 23.188 26.278999 34.176998 40.875999 44.561001 50.666 54.263 57.354 64.053001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5118">Row Rotation</tspan></text>
+</g><g
+           id="g5122"><text
+             transform="matrix(1,0,0,-1,56.8,171.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5126"><tspan
+               x="0 6.6989999 9.1850004 15.29 17.688 20.778999 23.870001 29.975 36.080002 39.171001 47.069 54.373001 61.676998 65.362 72.666 78.859001 86.757004 92.862 95.260002 100.76 106.953 113.058 119.163 125.268 131.461 134.464 137.55499 139.953 146.058 152.16299 158.26801 164.373 167.464 170.55499 176.66 179.058 185.25101 188.254 194.35899 196.757 202.345 208.45 211.541 214.54401 216.942 223.13499 226.138 232.243 238.34801 244.541 247.632 254.33099 260.436 262.83401 265.23199 271.42499 277.53 280.621 283.62399 286.715 292.82001 298.92499 302.60999 305.41501 310.91501 317.01999 320.11099 326.216 328.702 331.70499 337.20499 340.29599 346.401 352.50601 358.61099"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5124">Ziel: 10 CSS-Anweisungen finden, die nicht in den Folien / der Tafel stehen</tspan></text>
+</g><g
+           id="g5128"><text
+             transform="matrix(1,0,0,-1,56.8,158.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5132"><tspan
+               x="0 7.8979998 14.091 20.195999 26.301001 29.392 32.395 40.292999 46.486 54.383999 60.488998 63.580002 66.670998 70.356003 76.460999 78.859001 84.359001 86.757004 92.862 99.055 102.058 108.163 114.356 117.359 126.544 132.04401 135.047 141.24001 149.138 155.243 158.92799 161.931 167.431 173.536 179.729 182.73199 189.431 193.116 199.22099 205.326 211.519 213.91701 220.022 223.11301 232.298 238.293 241.978 247.478 253.58299 257.26801 262.76801 265.85901 269.54401 275.64899 281.64401 284.73499 290.84 294.52499 297.616 306.207 312.31201 318.41699 324.522 328.11899 331.20999 336.70999 339.80099 345.90601 352.01099"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5130">Count Down: „Living on my own“ von Freddie Mercury (70ter Geburtstag)</tspan></text>
+</g><g
+           id="g5134"><text
+             transform="matrix(1,0,0,-1,56.8,146.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5138"><tspan
+               x="0 6.6989999 12.804 18.909 25.014 28.798 31.195999 37.300999 43.405998 45.804001 51.909 55 58.091 61.181999 63.580002 70.884003 76.988998 80.080002 86.184998 92.290001 98.394997 104.588 107.679 113.674 116.765 119.856 127.16 130.25101 135.75101 138.149 144.254 149.754 155.85899 161.964 168.069 171.16 174.25101 179.75101 185.25101 191.356 195.041 201.146 203.54401 209.649 215.754 221.94701"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5136">Theorieblatt, Aufgabe 3: Stylesheet schreiben </tspan></text>
+</g><g
+           id="g5140"><text
+             transform="matrix(1,0,0,-1,281.9,146.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5144"><tspan
+               x="0 11 14.003 20.108 25.608 28.698999 31.097 34.188 37.278999 43.383999 45.782001 51.282001 54.373001 62.271 68.375999 74.481003 79.981003 86.085999 92.191002 95.281998 101.387 107.58 113.685"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5142">→ evtl. als Hausaufgabe</tspan></text>
+</g><g
+           id="g5146"><text
+             transform="matrix(1,0,0,-1,430.8,146.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5150"><tspan
+               x="0 7.3039999 13.409 16.5 22.605 28.709999 34.814999 41.007999 44.011002 47.102001 49.907001 56.605999 63.998001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5148">Aufgabe / TPS</tspan></text>
+</g><g
+           id="g5152"><text
+             transform="matrix(1,0,0,-1,56.8,121)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5156"><tspan
+               x="0 10.197 16.302 23.000999 29.788 32.791 39.490002 45.595001 52.293999 59.081001 65.779999 68.871002 75.57 81.675003 84.678001 88.362999 92.047997 95.051003 103.037 109.142 115.247 121.946 128.645 135.34399 141.44901 144.53999 150.645 156.838 159.841 170.03799 176.14301 182.842 189.541 195.73399 201.839 204.92999 211.629 218.328 221.41901 228.118 234.817 241.51601 244.60699 248.20399 254.903 261.60199 267.707 272.09601 275.099 281.798 288.49701 291.58801 294.67899 300.784 307.483 310.57401 316.67899 322.784 326.38101 330.06601"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5154">Wenn genug Zeit: Responsive Webdesign.odp (oder Folien 37ff)</tspan></text>
+</g><g
+           id="g5158"><text
+             transform="matrix(1,0,0,-1,430.8,121)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5162"><tspan
+               x="0 6.6989999 13.398 16.400999 19.492001 25.597"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5160">Folien</tspan></text>
+</g><g
+           id="g5164"><text
+             transform="matrix(1,0,0,-1,56.8,108.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5168"><tspan
+               x="0 8.5909996 14.696 17.698999 21.384001 27.489 33.594002 39.699001 42.790001 48.983002 51.986 59.290001 62.381001 67.880997 70.278999 76.384003 81.884003 87.988998 94.181999 100.287 103.378 108.878 111.881 117.381 122.881 125.972 128.97501 138.16 144.265 150.37 152.856 158.961 162.052 170.55499 176.66 182.765 186.45 188.84801 194.953"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5166">Getrennte Stylesheets vs. Media Queries</tspan></text>
+</g><g
+           id="g5170"><text
+             transform="matrix(1,0,0,-1,56.8,95.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5174"><tspan
+               x="0 9.1850004 15.29 21.395 23.881001 26.278999 32.383999 35.474998 42.174 44.571999 48.257 53.757 56.759998 60.445 67.749001 73.853996 79.442001 85.546997 88.638"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5172">Mobile First-Ansatz</tspan></text>
+</g><g
+           id="g5176"><text
+             transform="matrix(1,0,0,-1,56.8,83)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5180"><tspan
+               x="0 6.6989999 12.804 16.489 24.475 30.58 32.978001 38.478001 41.569 47.674 53.778999 56.869999 59.268002 66.571999 70.257004 73.348 75.746002 81.246002 87.439003 89.836998 92.928001 99.032997 105.138 110.638 113.729 119.834 122.232 128.33701 134.442 139.942 143.033 152.218 158.323 164.42799 170.533 176.033 178.431"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5178">Verweis auf Artikel aus Linux Magazin</tspan></text>
+</g></g></g><g
+       transform="translate(615.99404,1.2898129)"
+       id="g5211"><g
+         id="g5213"
+         clip-path="url(#clipPath5217)"><path
+           d="M 297.6,781 H -0.1 v 60.8 H 595.2 V 781 Z"
+           style="fill:#e6e6e6;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path5219"
+           inkscape:connector-curvature="0" /><g
+           id="g5221"><text
+             transform="matrix(1,0,0,-1,57.3,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5225"><tspan
+               x="0 7.8979998 14.597 23.782 30.481001 33.571999 41.557999 48.862"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5223">HTML/CSS</tspan></text>
+</g><g
+           id="g5227"><text
+             transform="matrix(1,0,0,-1,56.8,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5231"><tspan
+               x="0 7.8979998 14.597 23.782 30.481001 33.571999 41.557999 48.862"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5229">HTML/CSS</tspan></text>
+</g><g
+           id="g5233"><text
+             transform="matrix(1,0,0,-1,488.4,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5237"><tspan
+               x="0 7.3039999 13.409 16.5 20.184999 26.290001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5235">Seite</tspan></text>
+</g><g
+           id="g5239"><text
+             transform="matrix(1,0,0,-1,487.9,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5243"><tspan
+               x="0 7.3039999 13.409 16.5 20.184999 26.290001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5241">Seite</tspan></text>
+</g><g
+           id="g5245"><text
+             transform="matrix(1,0,0,-1,517.8,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5249"><tspan
+               x="0"
+               y="0"
+               id="tspan5247">2</tspan></text>
+</g><g
+           id="g5251"><text
+             transform="matrix(1,0,0,-1,517.3,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5255"><tspan
+               x="0"
+               y="0"
+               id="tspan5253">2</tspan></text>
+</g><g
+           id="g5257"><text
+             transform="matrix(1,0,0,-1,526.903,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5261"><tspan
+               x="0 3.0910001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5259">/</tspan></text>
+</g><g
+           id="g5263"><text
+             transform="matrix(1,0,0,-1,526.403,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5267"><tspan
+               x="0 3.0910001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5265">/</tspan></text>
+</g><g
+           id="g5269"><text
+             transform="matrix(1,0,0,-1,533.1,798.3)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5273"><tspan
+               x="0"
+               y="0"
+               id="tspan5271">2</tspan></text>
+</g><g
+           id="g5275"><text
+             transform="matrix(1,0,0,-1,532.6,798.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#0093d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5279"><tspan
+               x="0"
+               y="0"
+               id="tspan5277">2</tspan></text>
+</g><g
+           id="g5281"><text
+             transform="matrix(1,0,0,-1,56.8,727.9)"
+             style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5285"><tspan
+               x="0 10.094 18.591999 27.174 35.672001 44.254002 52.037998 59.821999 64.428001 73.010002 81.508003 90.089996 97.874001 101.766"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5283">Übungsstunde 2</tspan></text>
+</g><g
+           id="g5287"><text
+             transform="matrix(1,0,0,-1,56.8,708.7)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5291"><tspan
+               x="0 7.8979998 14.091 20.790001 26.895 33 39.699001 43.383999 50.083 56.188 62.887001 69.080002 72.083 78.781998 84.887001 91.080002 97.778999 102.069 108.174 114.279 120.978 127.083"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5289">Hausaufgabe besprechen</tspan></text>
+</g><g
+           id="g5293"><text
+             transform="matrix(1,0,0,-1,430.8,708.7)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5297"><tspan
+               x="0 7.8979998 10.989 17.094 23.198999 29.898001 36.002998 42.108002 45.199001 51.897999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5295">Diskussion</tspan></text>
+</g><g
+           id="g5299"><text
+             transform="matrix(1,0,0,-1,56.8,683.4)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5303"><tspan
+               x="0 6.6989999 12.804 17.094 20.778999 23.870001 29.975 33.66 40.359001 47.057999 53.757 56.848 62.348 69.046997 72.138 80.036003 87.339996"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5301">Vertiefung zu CSS</tspan></text>
+</g><g
+           id="g5305"><text
+             transform="matrix(1,0,0,-1,56.8,670.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5309"><tspan
+               x="0 9.1850004 15.29 21.989 28.094 30.58 36.685001 42.790001 48.895 51.292999 54.383999 60.488998 66.681999 69.684998 72.083 78.276001 81.278999 89.264999 96.569 103.873 106.964 110.055 116.16 125.257 128.34801 131.439 137.54401 142.94501 146.036 149.127 155.23199 158.235 161.326 164.41701 174.119 177.21001 180.30099 185.80099 193.105 196.196 199.19901 204.69901 210.804 213.895 216.98599 222.38699 231.57201 234.058 240.16299 243.254 246.257 251.757 260.94199 267.047 272.547 275.638 278.64099"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5307">Maßeinheiten in CSS: em, ex, pt, %, vw, vh, vmin, vmax, …</tspan></text>
+</g><g
+           id="g5311"><text
+             transform="matrix(1,0,0,-1,56.8,658.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5315"><tspan
+               x="0 6.6989999 12.804 16.489 22.594 28.698999 34.891998 37.895 40.292999 46.486 49.577 57.474998 64.778999 72.083 75.174004 78.264999 84.963997 91.069 94.753998 100.859 106.964 113.069 122.254 128.35899 134.464 137.55499 140.558 146.66299 150.34801 154.033 160.138 166.243 172.34801 178.453 181.54401 184.63499 188.32001 194.425 200.53 206.63499 210.23199"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5313">Farben in CSS: Farbnamen, #rrggbb, rgba()</tspan></text>
+</g><g
+           id="g5317"><text
+             transform="matrix(1,0,0,-1,56.8,632.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5321"><tspan
+               x="0 7.8979998 14.091 20.195999 26.895 33.594002 40.292999 46.397999 49.488998 55.594002 61.786999 64.790001 74.987 81.092003 87.791 94.489998 100.595 106.7 109.791 116.49 123.189 126.28 132.979 139.67799 146.465 149.468 153.153 159.85201 166.55099 172.65601 176.946 180.037 186.73599 193.435 196.526 199.617 205.722 212.42101 215.424 221.52901 227.634 231.319 235.004"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5319">Responsive Webdesign.odp (oder Folien 37ff)</tspan></text>
+</g><g
+           id="g5323"><text
+             transform="matrix(1,0,0,-1,430.8,632.8)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5327"><tspan
+               x="0 6.6989999 13.398 16.400999 19.492001 25.597"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5325">Folien</tspan></text>
+</g><g
+           id="g5329"><text
+             transform="matrix(1,0,0,-1,56.8,620.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5333"><tspan
+               x="0 8.5909996 14.696 17.698999 21.384001 27.489 33.594002 39.699001 42.790001 48.983002 51.986 59.290001 62.381001 67.880997 70.278999 76.384003 81.884003 87.988998 94.181999 100.287 103.378 108.878 111.881 117.381 122.881 125.972 128.97501 138.16 144.265 150.37 152.856 158.961 162.052 170.55499 176.66 182.765 186.45 188.84801 194.953"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5331">Getrennte Stylesheets vs. Media Queries</tspan></text>
+</g><g
+           id="g5335"><text
+             transform="matrix(1,0,0,-1,56.8,607.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5339"><tspan
+               x="0 9.1850004 15.29 21.395 23.881001 26.278999 32.383999 35.474998 42.174 44.571999 48.257 53.757 56.759998 60.445 67.749001 73.853996 79.442001 85.546997 88.638"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5337">Mobile First-Ansatz</tspan></text>
+</g><g
+           id="g5341"><text
+             transform="matrix(1,0,0,-1,56.8,594.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5345"><tspan
+               x="0 6.6989999 12.804 16.489 24.475 30.58 32.978001 38.478001 41.569 47.674 53.778999 56.869999 59.268002 66.571999 70.257004 73.348 75.746002 81.246002 87.439003 89.836998 92.928001 99.032997 105.138 110.638 113.729 119.834 122.232 128.33701 134.442 139.942 143.033 152.218 158.323 164.42799 170.533 176.033 178.431"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5343">Verweis auf Artikel aus Linux Magazin</tspan></text>
+</g><g
+           id="g5347"><text
+             transform="matrix(1,0,0,-1,56.8,569.5)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5351"><tspan
+               x="0 7.8979998 10.989 14.08 20.778999 24.464001 27.466999 32.966999 39.071999 42.757 48.862 55.561001 61.666 64.757004 68.353996 71.445 78.143997 84.336998 87.339996 97.537003 103.642 110.341 116.446 122.551 125.642 129.327 135.43201 140.93201 144.02299 147.70799 154.407 160.51199 166.617 170.907 177.606 183.711 189.81599 193.50101"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5349">Bild: „3-spaltige Webseite“ (geerdes)</tspan></text>
+</g><g
+           id="g5353"><text
+             transform="matrix(1,0,0,-1,253.5,569.5)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5357"><tspan
+               x="0 6.6989999 13.398 19.503 23.792999 26.884001 32.285 41.470001 47.575001 51.865002 57.970001 64.074997 67.760002 70.850998 77.550003 84.249001 90.353996 96.459 99.550003 103.235 109.34 114.84 117.931 121.528 127.633 131.923 138.62199 142.30701 148.412 151.50301"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5355">oder „Marketingseite“ (crotal)</tspan></text>
+</g><g
+           id="g5359"><text
+             transform="matrix(1,0,0,-1,430.8,569.5)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5363"><tspan
+               x="0 7.8979998 10.989 17.094 23.198999 29.898001 36.002998 42.108002 45.199001 51.897999"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5361">Diskussion</tspan></text>
+</g><g
+           id="g5365"><text
+             transform="matrix(1,0,0,-1,56.8,556.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5369"><tspan
+               x="0 7.3920002 9.79 12.188 18.381001 21.384001 27.489 33.681999 36.685001 42.790001 45.188 51.381001 54.383999 64.383003 70.487999 76.593002 82.786003 85.789001 93.686996 99.792 103.477 106.568 112.673"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5367">Bild an die Wand werfen</tspan></text>
+</g><g
+           id="g5371"><text
+             transform="matrix(1,0,0,-1,56.8,544.2)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5375"><tspan
+               x="0 6.6989999 10.384 16.489 22.594 28.698999 31.790001 34.881001 45.264999 47.662998 53.768002 56.859001 59.257 64.757004 67.848 70.850998 76.956001 79.442001 85.546997 88.638 95.942001 102.047 104.445 107.536 113.641 116.732 122.837 128.942 134.442 137.533 143.638 146.036 149.127 155.23199 158.323"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5373">Frage: Wie ist die Seite gestaltet?</tspan></text>
+</g><g
+           id="g5377"><text
+             transform="matrix(1,0,0,-1,56.8,531.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5381"><tspan
+               x="0 11 14.091 20.195999 26.301001 29.392 38.577 40.974998 47.080002 53.185001 56.276001 62.381001 68.486 71.577003 73.974998 80.080002 86.184998 92.290001 95.974998 99.066002 102.157 108.152 111.837 114.928 120.428 122.826 128.326 134.431 137.522 143.627 149.73199 155.83701 159.522 161.92 168.02499 174.218 180.323 186.42799 189.519 192.522 198.627 204.73199 210.925 217.03 220.121 226.226 232.33099 235.422 241.52699 247.632 251.317 254.12199 259.62201 265.72699 268.81799 274.923 277.409 280.41199 285.91199 292.017 301.202 310.38699 316.492 318.89001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5379">→ 10 Minuten jeder für sich überlegen, dann an der Tafel sammeln</tspan></text>
+</g><g
+           id="g5383"><text
+             transform="matrix(1,0,0,-1,430.8,544.2)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5387"><tspan
+               x="0 5.5 11.605 14.696 20.801001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5385">Tafel</tspan></text>
+</g><g
+           id="g5389"><text
+             transform="matrix(1,0,0,-1,74.8,508.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5393"><tspan
+               x="0"
+               y="0"
+               id="tspan5391">•</tspan></text>
+</g><g
+           id="g5395"><text
+             transform="matrix(1,0,0,-1,92.8,508.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5399"><tspan
+               x="0 6.4980001 11.502 16.506001 21.51 26.514 29.601 32.094002 37.098 42.102001 47.105999 49.598999 55.089001 60.092999 65.097 67.589996 72.594002 75.591003 78.084 82.584 87.587997 92.592003 95.084999 98.082001 100.08 105.084 108.081"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5397">Header und Footer zentriert</tspan></text>
+</g><g
+           id="g5401"><text
+             transform="matrix(1,0,0,-1,74.8,497.7)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5405"><tspan
+               x="0"
+               y="0"
+               id="tspan5403">•</tspan></text>
+</g><g
+           id="g5407"><text
+             transform="matrix(1,0,0,-1,92.8,497.7)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5411"><tspan
+               x="0 5.994 7.9920001 9.9899998 14.994 17.487 19.98 22.473 27.476999 32.480999 37.485001 42.578999 45.071999 47.07 54.567001 57.060001 63.557999 68.561996 73.566002 78.57 83.573997"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5409">Bild / Logo im Header</tspan></text>
+</g><g
+           id="g5413"><text
+             transform="matrix(1,0,0,-1,74.8,487.3)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5417"><tspan
+               x="0"
+               y="0"
+               id="tspan5415">•</tspan></text>
+</g><g
+           id="g5419"><text
+             transform="matrix(1,0,0,-1,92.8,487.3)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5423"><tspan
+               x="0 8.2980003 13.302 15.3 20.790001 25.884001 28.377001 34.370998 38.870998 43.875 46.872002 48.869999 51.362999 53.855999 56.348999 61.353001 66.357002 71.361 73.853996 78.858002 83.862 85.860001 87.858002 92.862 94.860001 99.863998 104.868 109.962 112.455 117.459 119.457 124.461 128.961 133.461 135.95399 137.952 145.44901 147.942 153.43201 158.436 163.44 165.933 170.937"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5421">Weiße Schrift und hellblaue Links im Footer</tspan></text>
+</g><g
+           id="g5425"><text
+             transform="matrix(1,0,0,-1,74.8,476.9)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5429"><tspan
+               x="0"
+               y="0"
+               id="tspan5427">•</tspan></text>
+</g><g
+           id="g5431"><text
+             transform="matrix(1,0,0,-1,92.8,476.9)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5435"><tspan
+               x="0 6.4980001 8.4960003 13.5 15.993 20.997 23.993999 28.997999 31.995001 36.999001 42.002998 47.007 52.011002 54.008999 56.007 61.101002 63.594002 66.086998 71.091003 73.088997 75.086998 77.580002 80.072998 85.077003 87.074997 92.079002 94.571999 99.575996 104.58 109.584 114.084 119.178 121.671 127.665 132.66901 134.66701 137.16"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5433">Hintergrundbild füllt die ganze Seite</tspan></text>
+</g><g
+           id="g5437"><text
+             transform="matrix(1,0,0,-1,74.8,466.5)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5441"><tspan
+               x="0"
+               y="0"
+               id="tspan5439">•</tspan></text>
+</g><g
+           id="g5443"><text
+             transform="matrix(1,0,0,-1,92.8,466.5)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5447"><tspan
+               x="0 5.994 10.998 16.002001 20.502001 23.499001 29.493 34.497002 37.493999 39.492001 42.084 44.577 50.570999 55.070999 60.075001 63.071999 65.07 67.563004 70.056 72.549004 75.042 79.542 81.540001 86.543999 88.542 93.545998 96.039001 98.531998 103.032 108.036 110.529 113.022 118.026 123.03"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5445">Sans-Serif Schrift, klein, ca. 9pt</tspan></text>
+</g><g
+           id="g5449"><text
+             transform="matrix(1,0,0,-1,74.8,456.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5453"><tspan
+               x="0"
+               y="0"
+               id="tspan5451">•</tspan></text>
+</g><g
+           id="g5455"><text
+             transform="matrix(1,0,0,-1,92.8,456.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5459"><tspan
+               x="0 6.4980001 9.4949999 14.499 16.497 18.99 24.983999 29.988001 34.992001 36.990002 39.483002 44.487 49.581001 52.074001 54.071999 59.076 61.569 66.572998 71.577003 74.573997 77.067001 84.564003 86.561996 89.055 91.547997"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5457">Drei Spalten in der Mitte</tspan></text>
+</g><g
+           id="g5461"><text
+             transform="matrix(1,0,0,-1,92.8,445.7)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5465"><tspan
+               x="0"
+               y="0"
+               id="tspan5463">◦</tspan></text>
+</g><g
+           id="g5467"><text
+             transform="matrix(1,0,0,-1,110.8,445.7)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5471"><tspan
+               x="0 5.994 7.9920001 9.9899998 14.994 17.487 22.490999 24.489 29.493 31.490999 35.991001 41.084999 43.577999 48.582001 51.578999 56.583 58.581001 61.074001 63.567001 68.570999 73.574997 78.579002 81.071999 86.075996 88.073997 93.078003 95.075996 99.575996 104.58 107.073 112.077 117.081 121.581"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5469">Alle gleich breit und gleich hoch</tspan></text>
+</g><g
+           id="g5473"><text
+             transform="matrix(1,0,0,-1,92.8,435.3)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5477"><tspan
+               x="0"
+               y="0"
+               id="tspan5475">◦</tspan></text>
+</g><g
+           id="g5479"><text
+             transform="matrix(1,0,0,-1,110.8,435.3)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5483"><tspan
+               x="0 5.994 10.998 16.002001 18 20.493 25.497 30.591 33.084 37.584 39.582001 44.585999 49.59 52.083 57.087002 62.091 67.095001 72.098999 75.096001 77.588997 82.593002 84.591003 89.091003 91.584 96.587997 99.584999 104.589 106.587"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5481">Spalten sind höher als breit</tspan></text>
+</g><g
+           id="g5485"><text
+             transform="matrix(1,0,0,-1,92.8,424.9)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5489"><tspan
+               x="0"
+               y="0"
+               id="tspan5487">◦</tspan></text>
+</g><g
+           id="g5491"><text
+             transform="matrix(1,0,0,-1,110.8,424.9)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5495"><tspan
+               x="0 6.993 9.9899998 14.994 20.483999 25.488001 27.981001 32.985001 37.988998 43.083 45.576 50.076 52.074001 57.077999 59.076 64.080002 69.084 71.577003 78.074997 83.079002 88.083 91.080002 95.580002 100.08 105.084 108.081 110.079 112.572"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5493">Große und kleine Überschrift</tspan></text>
+</g><g
+           id="g5497"><text
+             transform="matrix(1,0,0,-1,92.8,414.5)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5501"><tspan
+               x="0"
+               y="0"
+               id="tspan5499">◦</tspan></text>
+</g><g
+           id="g5503"><text
+             transform="matrix(1,0,0,-1,110.8,414.5)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5507"><tspan
+               x="0 5.4899998 11.988 16.992001 18.99 20.988001 26.982 31.986 36.486 41.490002 43.983002 48.483002 53.577 56.07 63.567001 65.565002 68.057999 70.551003 76.544998 78.542999 83.546997 88.046997 92.546997 97.046997 102.051 104.544"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5505">Zwei Absätze mit Blocksatz</tspan></text>
+</g><g
+           id="g5509"><text
+             transform="matrix(1,0,0,-1,92.8,404.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5513"><tspan
+               x="0"
+               y="0"
+               id="tspan5511">◦</tspan></text>
+</g><g
+           id="g5515"><text
+             transform="matrix(1,0,0,-1,110.8,404.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5519"><tspan
+               x="0 4.5 9.5039997 16.002001 21.006001 23.004 25.002001 29.502001 31.995001 36.999001 42.002998 44.495998 49.5 54.594002 57.087002 60.084 65.087997 69.587997 74.592003 77.084999 81.584999 84.078003 89.082001 91.080002 96.084 98.577003 103.581 105.579 110.583"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5517">Jeweils unten rechts ein Link</tspan></text>
+</g><g
+           id="g5521"><text
+             transform="matrix(1,0,0,-1,333.7,508.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5525"><tspan
+               x="0"
+               y="0"
+               id="tspan5523">◦</tspan></text>
+</g><g
+           id="g5527"><text
+             transform="matrix(1,0,0,-1,351.7,508.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5531"><tspan
+               x="0 5.994 10.494 15.498 21.996 27 29.997 34.497002 39.591 42.084 48.077999 52.577999 57.582001 60.578999 62.577 65.07"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5529">Schwarze Schrift</tspan></text>
+</g><g
+           id="g5533"><text
+             transform="matrix(1,0,0,-1,333.7,497.7)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5537"><tspan
+               x="0"
+               y="0"
+               id="tspan5535">◦</tspan></text>
+</g><g
+           id="g5539"><text
+             transform="matrix(1,0,0,-1,351.7,497.7)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5543"><tspan
+               x="0 8.2980003 13.302 15.3 20.790001 25.794001 28.881001 31.374001 37.872002 39.869999 44.874001 47.367001 52.370998 55.368 60.372002 63.368999 68.373001 73.376999 78.380997 80.874001 83.366997 85.364998 90.369003 92.366997 96.866997 101.871 104.364 106.857 109.35 112.347 117.351 122.355 126.855 131.85899 136.86301 139.86 144.864 149.868"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5541">Weißer Hintergrund, leicht transparent</tspan></text>
+</g><g
+           id="g5545"><text
+             transform="matrix(1,0,0,-1,333.7,487.3)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5549"><tspan
+               x="0"
+               y="0"
+               id="tspan5547">◦</tspan></text>
+</g><g
+           id="g5551"><text
+             transform="matrix(1,0,0,-1,351.7,487.3)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5555"><tspan
+               x="0 5.0040002 10.008 12.006 16.506001 21.51 24.101999 26.594999 31.599001 36.603001 41.606998 46.611 49.608002 54.612 59.616001 64.620003 69.624001 72.116997 77.121002 79.613998 85.608002 90.108002 94.608002 99.612"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5553">Leicht abgerundete Ecken</tspan></text>
+</g><g
+           id="g5557"><text
+             transform="matrix(1,0,0,-1,333.7,476.9)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5561"><tspan
+               x="0"
+               y="0"
+               id="tspan5559">◦</tspan></text>
+</g><g
+           id="g5563"><text
+             transform="matrix(1,0,0,-1,351.7,476.9)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5567"><tspan
+               x="0 6.993 8.9910002 13.995 15.993 20.493 25.497 32.993999 37.998001 43.487999 45.486 50.490002 55.493999 58.581001 61.074001 63.567001 68.570999 73.574997 78.579002 83.583 88.586998 93.591003 98.091003 100.584 105.588 110.592"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5565">Gleichmäßiger Innenabstand</tspan></text>
+</g><g
+           id="g5569"><text
+             transform="matrix(1,0,0,-1,333.7,466.5)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5573"><tspan
+               x="0"
+               y="0"
+               id="tspan5571">◦</tspan></text>
+</g><g
+           id="g5575"><text
+             transform="matrix(1,0,0,-1,351.7,466.5)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5579"><tspan
+               x="0 5.994 10.998 16.488001 21.492001 26.496 31.5 36.504002 41.004002 43.497002 48.500999 53.505001 58.598999 61.091999 63.09 65.087997 70.092003 74.592003 79.092003 81.584999 86.588997 91.593002 96.597 99.089996 102.087 107.091 111.591 116.595 119.088 123.588 126.081 131.08501 134.082 139.086 144.576 149.58 152.66701 155.16 160.164 162.162 166.662"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5577">Außenabstand links und rechts größer als</tspan></text>
+</g><g
+           id="g5581"><text
+             transform="matrix(1,0,0,-1,351.7,456.1)"
+             style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#0084d1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5585"><tspan
+               x="0 5.0040002 10.008 15.012 20.106001 22.599001 27.603001 32.606998 37.611 40.104 45.108002 50.112 52.605 57.609001"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5583">oben und unten</tspan></text>
+</g><g
+           id="g5587"><text
+             transform="matrix(1,0,0,-1,56.8,379.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5591"><tspan
+               x="0 7.8979998 14.597 18.282 24.981001 31.174 37.873001 43.978001 47.662998 50.666 57.365002 63.470001 67.760002 73.953003 80.652 86.757004 93.456001 99.560997 106.348 109.351 116.655 119.746 125.851 128.942 132.033 138.633 141.724 147.91701 150.92 158.224 164.32899 167.42 171.105 177.21001 180.30099 187 193.105 199.21001 205.909 211.409 218.108 224.80701 230.912 237.69901 243.804"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5589">Aufgabe: Versuchen Sie, die Seite nachzubauen</tspan></text>
+</g><g
+           id="g5593"><text
+             transform="matrix(1,0,0,-1,74.8,366.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5597"><tspan
+               x="0"
+               y="0"
+               id="tspan5595">•</tspan></text>
+</g><g
+           id="g5599"><text
+             transform="matrix(1,0,0,-1,92.8,366.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5603"><tspan
+               x="0 7.8979998 14.003 17.094 23.198999 29.304001 35.497002 41.602001 47.102001 50.786999 58.091 61.776001 67.880997 70.278999 76.384003 81.884003 84.974998 88.066002 94.170998 100.276 109.461 115.566 117.964 124.069 129.569 135.674 144.85899 147.95 154.05499 160.16 162.558 168.66299 174.856 180.961"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5601">Netbeans-Projekt gemeinsam anlegen</tspan></text>
+</g><g
+           id="g5605"><text
+             transform="matrix(1,0,0,-1,74.8,353.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5609"><tspan
+               x="0"
+               y="0"
+               id="tspan5607">•</tspan></text>
+</g><g
+           id="g5611"><text
+             transform="matrix(1,0,0,-1,92.8,353.9)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5615"><tspan
+               x="0 7.3920002 9.79 12.188 18.292999 24.398001 28.083 31.174 36.674 42.778999 48.883999 51.974998 61.16 67.264999 73.370003 79.474998 81.873001 88.066002 91.069 94.753998 100.859 106.964 110.055 116.16 119.845 122.243 128.34801 134.453 140.558 146.75101 149.754 155.85899 161.964 168.157 171.16 173.646 179.75101 185.25101 188.342 195.646 199.33099 205.436 207.834 213.939 219.439 222.53 225.621 231.121 237.226 243.33099 245.729 251.834 255.519 261.62399"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5613">Bilder von Moodle runterladen und ins Projekt kopieren</tspan></text>
+</g><g
+           id="g5617"><text
+             transform="matrix(1,0,0,-1,74.8,341.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5621"><tspan
+               x="0"
+               y="0"
+               id="tspan5619">•</tspan></text>
+</g><g
+           id="g5623"><text
+             transform="matrix(1,0,0,-1,92.8,341.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5627"><tspan
+               x="0 7.3039999 13.409 16.5 22 28.105 34.298 37.300999 43.405998 49.511002 55.098999 58.102001 61.193001 63.591 69.695999 75.195999 81.301003 87.405998 93.598999 99.704002 105.809 111.309 117.414 123.519 129.62399 135.817 141.922 145.013 152.911 155.30901 161.414 164.505 170.61 174.295 180.39999 184.08501 190.19 196.295 202.39999 208.505 210.991 213.38901 219.494"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5625">Setzen des flächendekenden Hintergrundbilds</tspan></text>
+</g><g
+           id="g5629"><text
+             transform="matrix(1,0,0,-1,74.8,328.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5633"><tspan
+               x="0"
+               y="0"
+               id="tspan5631">•</tspan></text>
+</g><g
+           id="g5635"><text
+             transform="matrix(1,0,0,-1,92.8,328.6)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5639"><tspan
+               x="0 7.8979998 14.091 20.195999 23.287001 31.184999 37.290001 42.790001 45.881001 48.883999 54.383999 60.488998 62.974998 65.373001 71.477997 77.670998 80.674004 86.174004 88.571999 94.764999 97.767998 103.961 106.359 108.757 114.95 117.348 123.453 129.558 132.649 138.754 142.439 148.54401 154.649 157.047 163.15199 166.83701 172.942"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5637">Den Rest sollen sie alleine probieren</tspan></text>
+</g><g
+           id="g5641"><text
+             transform="matrix(1,0,0,-1,56.8,303.3)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5645"><tspan
+               x="0 7.3039999 13.409 19.601999 25.707001 31.207001 37.312 43.417 49.521999 55.021999 58.112999 64.218002 67.308998 70.400002 78.297997 84.403 90.508003 96.612999 99.704002 105.809 108.207 114.4 117.403 124.707 130.89999 133.298 136.38901 142.494 145.58501 149.18201 155.287 160.787 166.892 172.99699 179.10201 184.69 187.088 192.588 198.78101 201.784 204.18201 209.68201"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5643">Bonuspunkte, wenn die Seite responsive ist</tspan></text>
+</g><g
+           id="g5647"><text
+             transform="matrix(1,0,0,-1,56.8,290.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5651"><tspan
+               x="0 11 14.091 20.790001 23.188 29.292999 34.792999 40.897999 47.002998 52.591 55.681999 61.786999 67.891998 73.997002 77.087997 86.184998 92.290001 98.483002 100.881 106.986 110.077 118.668 124.773 130.76801 134.453 139.14999 142.241 145.244 150.744 156.849 159.33501 165.44 171.545 175.23 178.321 181.918 188.02299 193.52299 199.62801 205.733 209.418 214.918 221.02299 223.509 229.614 233.299 239.40401"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5649">→ Flexbox und Media Query, selber recherchieren</tspan></text>
+</g><g
+           id="g5653"><text
+             transform="matrix(1,0,0,-1,56.8,265.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5657"><tspan
+               x="0 9.1850004 15.29 21.395 23.881001 26.278999 31.778999 37.883999 43.988998 47.080002 54.978001 57.464001 63.569 71.467003 77.660004 80.057999 85.557999 91.663002"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5655">Mögliche Hinweise:</tspan></text>
+</g><g
+           id="g5659"><text
+             transform="matrix(1,0,0,-1,74.8,252.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5663"><tspan
+               x="0"
+               y="0"
+               id="tspan5661">•</tspan></text>
+</g><g
+           id="g5665"><text
+             transform="matrix(1,0,0,-1,92.8,252.7)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5669"><tspan
+               x="0 7.8979998 14.003 19.591 25.695999 31.801001 37.905998 43.405998 45.804001 51.304001 57.497002 60.588001 70.785004 76.889999 82.995003 89.099998 95.205002 100.705 103.103 109.208 115.313 118.404 121.495 130.67999 136.785 142.89 145.28799 147.686 153.879 156.97 163.66901 166.067 169.752 175.153"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5667">Responsive Webdesign, Mobile First</tspan></text>
+</g><g
+           id="g5671"><text
+             transform="matrix(1,0,0,-1,74.8,240.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5675"><tspan
+               x="0"
+               y="0"
+               id="tspan5673">•</tspan></text>
+</g><g
+           id="g5677"><text
+             transform="matrix(1,0,0,-1,92.8,240.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5681"><tspan
+               x="0 6.6989999 9.1850004 15.29 20.790001 26.895 33 38.5 42.185001 51.369999 57.474998 63.580002 69.684998 72.170998 74.569 77.660004 80.663002 86.767998 90.453003 93.543999 99.649002 102.047 108.152 111.243 116.743 122.848 128.953 132.04401 135.729 138.127 144.23199 147.82899 150.92 157.02499 163.218 166.22099 173.61301 176.011 182.116 191.30099 197.40601 203.511 206.60201"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5679">Flexbox-Modell für die zentrierten Elemente</tspan></text>
+</g><g
+           id="g5683" /><g
+           id="g5685"
+           transform="translate(92.7,240.1)"><path
+             d="M 0,-0.9 H 212.8"
+             style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path5687"
+             inkscape:connector-curvature="0" /></g><g
+           id="g5689"><text
+             transform="matrix(1,0,0,-1,74.8,227.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5693"><tspan
+               x="0"
+               y="0"
+               id="tspan5691">•</tspan></text>
+</g><g
+           id="g5695"><text
+             transform="matrix(1,0,0,-1,92.8,227.4)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5699"><tspan
+               x="0 7.8979998 14.003 19.591 21.989 28.094 34.199001 37.290001 39.688 45.792999 51.897999 57.397999 62.986 69.091003 71.488998 73.974998 80.080002 83.170998 89.276001 91.674004 97.174004 100.265 108.163 114.268 120.373 124.058 130.16299 136.26801 139.953 146.058 152.25101 155.254 161.35899 163.757 169.257 172.34801 175.439 183.33701 189.442 192.533 195.03 202.334 207.834 213.334 219.439 224.939 227.33701 233.53 235.92799 238.326 240.724 243.815"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5697">Navigationszeile als Unordered List wg. Accesibility</tspan></text>
+</g><g
+           id="g5701"><text
+             transform="matrix(1,0,0,-1,430.8,379.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5705"><tspan
+               x="0 7.8979998 14.003 20.108 29.898001 36.002998"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5703">Beamer</tspan></text>
+</g><g
+           id="g5707"><text
+             transform="matrix(1,0,0,-1,56.8,214.8)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5711"><tspan
+               x="0 7.3039999 16.489 19.58 26.884001 32.383999 38.488998 40.887001 46.992001 52.492001 58.080002 61.171001 66.670998 72.666 76.350998 81.850998 87.350998 93.456001 95.942001 102.047 108.152 114.257 120.362 126.555 129.558 135.66299 141.76801 147.26801 153.461 159.56599 165.67101 171.17101 179.069 185.174 191.367 197.472 200.563 206.668 212.77299 218.27299 224.37801 228.063 234.168 239.668 245.77299 251.87801"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5709">Am Schluss verschiedene Lösungswege besprechen</tspan></text>
+</g><g
+           id="g5713"><text
+             transform="matrix(1,0,0,-1,74.8,202.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5717"><tspan
+               x="0"
+               y="0"
+               id="tspan5715">•</tspan></text>
+</g><g
+           id="g5719"><text
+             transform="matrix(1,0,0,-1,92.8,202.1)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5723"><tspan
+               x="0 7.9860001 15.29 22.594 25.684999 34.188 37.873001 40.271 46.375999 51.964001 54.966999 61.071999 63.470001 69.057999 72.149002 78.253998 80.652 83.742996 89.848 93.532997 99.638 105.633 108.724 111.122 116.71 122.815 126.5 129.50301 135.608 141.713 147.213 153.31799 159.511 165.616 171.116 179.01401 185.119"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5721">CSS Grids als alternativer Lösungsweg</tspan></text>
+</g><g
+           id="g5725"><text
+             transform="matrix(1,0,0,-1,74.8,189.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:OpenSymbol;-inkscape-font-specification:OpenSymbol;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5729"><tspan
+               x="0"
+               y="0"
+               id="tspan5727">•</tspan></text>
+</g><g
+           id="g5731"><text
+             transform="matrix(1,0,0,-1,92.8,189.5)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5735"><tspan
+               x="0 6.6989999 12.804 16.489 24.475 30.58 32.978001 38.478001 41.569 47.674 53.778999 56.869999 59.268002 66.571999 70.257004 73.348 75.746002 81.246002 87.439003 89.836998 92.928001 95.325996 104.511 107.514 113.619 116.105 122.21 128.315 133.815 136.90601 146.091 152.196 158.30099 164.40601 169.90601 172.304"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5733">Verweis auf Artikel im Linux Magazin</tspan></text>
+</g><g
+           id="g5737"><text
+             transform="matrix(1,0,0,-1,56.8,164.2)"
+             style="font-variant:normal;font-weight:bold;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5741"><tspan
+               x="0 7.8979998 14.091 20.790001 26.895 33 39.699001 43.383999 50.083 56.188 62.887001 68.991997"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5739">Hausaufgabe:</tspan></text>
+</g><g
+           id="g5743"><text
+             transform="matrix(1,0,0,-1,131.998,164.2)"
+             style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="text5747"><tspan
+               x="0 7.3039999 10.989 14.08 16.478001 21.978001 28.083 30.569 33.571999 39.676998 45.782001 51.369999 54.373001 60.478001 62.964001 69.069 75.174004 80.674004 83.764999 92.949997 99.055 105.16 111.265 116.765 119.163 125.356 128.35899 133.85899 139.964 143.05499 146.74001 154.638 160.743 166.243 172.34801 178.453 184.558 190.146 192.54401 198.04401 204.149 207.24001 217.437 223.54201 229.647 235.752 241.85699 247.35699 249.755 255.948 262.05301 265.73801 268.741 271.13901 277.24399 282.832 288.93701"
+               y="0"
+               sodipodi:role="line"
+               id="tspan5745">Artikel aus Linux Magazin zu „Responsive Webdesign“ lesen</tspan></text>
+</g></g></g></g></svg>

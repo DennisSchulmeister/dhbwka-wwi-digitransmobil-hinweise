@@ -48,6 +48,8 @@ window.addEventListener("load", () => {
         labelNext: "Weiter",
         labelGoTo: "Gehe zu",
         labelOverview: "Übersicht",
+        labelSlideView: "Folien",
+        labelPrintView: "Drucken",
         labelPresentationMode: "Präsentationsmodus",
         mode: "overview",
     });

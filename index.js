@@ -49,10 +49,15 @@ window.addEventListener("load", () => {
         labelGoTo: "Gehe zu",
         labelViewMenu: "Ansicht",
         labelOverview: "Übersicht",
-        labelSlideView: "Folien",
+        labelSlidesAndText: "Folien und Text",
+        labelSlidesOnly: "Nur Folien",
+        labelTextOnly: "Nur Text",
         labelPrintView: "Drucken",
-        labelPresentationMode: "Präsentationsmodus",
+        labelFadeToWhite: "Alles ausblenden (weiß)",
+        labelFadeToBlack: "Alles ausblenden (schwarz)",
+        labelFadeBack: "Klicken, um zu den Folien zurückzukehren",
         mode: "overview",
+        linkMode: "slideshow",
     });
 
     player.start();

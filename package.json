@@ -48,7 +48,7 @@
         "lecture-slides.js": "^1.1.0",
         "less": "^3.9.0",
         "less-loader": "^4.0.5",
-        "shelljs": "^0.8.3",
+        "shelljs": "^0.8.5",
         "style-loader": "^0.23.1",
         "terser": "^3.14.1",
         "terser-webpack-plugin": "^1.2.1",
